@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-28T19:40:05.662147341Z"
+    description: A Helm chart for Kubernetes
+    digest: c38f0ff8539e5d261f4a2b534120fceb77b47ae6e0a498fa6312575b30f7b2b2
+    name: myapp
+    type: application
+    urls:
+    - https://greatways-enterprise.github.io/helm-app25/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-28T19:40:05.66077076Z"
